@@ -18,6 +18,24 @@ This is an example of how you may give instructions on setting up your project l
 git clone https://github.com/Evorron/CLI-Venv-Manager.git
 ```
 ## Usage
+> This executes the script.
+```
+python network_scanner.py
+```
+> You'll be greeted with the menu interface. Enter the inputs accordingly and you're good to go.
+```
+==================== Python Venv CLI Manager ====================
+
+Main Menu
+
+1. Add Python Virtual Environment(Venv)
+2. Manage Virtual Environments
+0. Exit the Program
+=================================================================
+
+Select The following Option: 
+```
+
 
 ## Upcoming Features
 * Text-based User Interface to substitute the CLI
