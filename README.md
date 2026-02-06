@@ -41,3 +41,4 @@ Select The following Option:
 * Text-based User Interface to substitute the CLI
 
 ## License
+Distributed under the MIT License. See `LICENSE.txt` for more information.
